@@ -1,0 +1,25 @@
+{
+  "name": "ekincare-design",
+  "version": "1.0.0",
+  "description": "A library built for ekincare components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamalaSumanth0262/ekincare-design.git"
+  },
+  "keywords": [
+    "Components",
+    "React",
+    "StoryBook",
+    "Styled-components"
+  ],
+  "author": "Ekincare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamalaSumanth0262/ekincare-design/issues"
+  },
+  "homepage": "https://github.com/SamalaSumanth0262/ekincare-design#readme"
+}
