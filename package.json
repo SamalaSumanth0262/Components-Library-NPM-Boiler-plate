@@ -62,5 +62,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "dependencies": {}
+  "dependencies": {
+    "styled-components": "^5.2.0"
+  }
 }

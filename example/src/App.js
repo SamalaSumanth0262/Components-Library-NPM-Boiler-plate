@@ -1,11 +1,12 @@
 import React from 'react'
-
+import { Button } from 'ekincare-design';
 import 'ekincare-design/dist/index.css'
 
 const App = () => {
   return (
     <div>
-      Sumanth checking
+      <Button>Normal Button</Button>
+      <Button primary>Primary Button</Button>
     </div>
   )
 }
