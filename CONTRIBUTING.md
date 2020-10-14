@@ -5,7 +5,7 @@
 
 🥈 Strictly Functional Components are to be implemented.
 
-🥉 Documenting for the componets Build.
+🥉 <b>1</b> PR must contain only <b>1</b> component & Documenting for the components Build.
 
 #
 
