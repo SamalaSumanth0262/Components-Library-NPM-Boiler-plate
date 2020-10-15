@@ -1,6 +1,6 @@
 import React from 'react'
-import { Button } from 'ekincare-design';
-import 'ekincare-design/dist/index.css'
+import { Button } from 'components-design';
+import 'components-design/dist/index.css'
 
 const App = () => {
   return (

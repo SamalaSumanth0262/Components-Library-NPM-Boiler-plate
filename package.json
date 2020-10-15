@@ -1,10 +1,10 @@
 {
-  "name": "ekincare-design",
-  "version": "1.0.0",
-  "description": "A library built for ekincare components",
+  "name": "components-design",
+  "version": "1.0.1",
+  "description": "A library built for managing components",
   "author": "SamalaSumanth0262",
   "license": "MIT",
-  "repository": "SamalaSumanth0262/ekincare-design",
+  "repository": "SamalaSumanth0262/Components-Library-NPM-Boiler-plate",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -59,9 +59,6 @@
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "dependencies": {
     "styled-components": "^5.2.0"
   }
