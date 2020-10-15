@@ -1,13 +1,13 @@
-# ekincare-design
+# components-design
 
-> A library built for ekincare components
+> A library built for components components
 
 [![NPM](https://img.shields.io/npm/v/ekincare-design.svg)](https://www.npmjs.com/package/ekincare-design) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save ekincare-design
+npm install --save components-design
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save ekincare-design
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'ekincare-design'
-import 'ekincare-design/dist/index.css'
+import MyComponent from 'components-design'
+import 'components-design/dist/index.css'
 
 class Example extends Component {
   render() {
